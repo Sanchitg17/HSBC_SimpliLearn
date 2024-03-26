@@ -37,11 +37,11 @@ The `HSBC_proj.cy.js` file contains a Cypress test suite named `SearchHSBC`, whi
 ## Test Steps
 
 1. Visit the HSBC security page (`https://www.hsbc.co.in/security/`).
-2. Click on a specific link.
+2. Click on Username Input Bar.
 3. Type text into an input field.
-4. Click on a checkbox.
-5. Click on an icon.
-6. Click on another icon.
-7. Click on a button.
+4. Click on a "?" Icon.
+5. Review the username guide.
+6. Click on close.
+7. Press Login.
 
 Refer Repo for more insights
