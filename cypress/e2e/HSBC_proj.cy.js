@@ -4,7 +4,6 @@ describe('SearchHSBC', () => {
     })
     
     it('CheckText', () => {
-       cy.get('a[href="/security/"]').click()
        cy.get('input[id="username"]').type('Hello')
        cy.get('input[class="checkbox-hidden-rem"]').click()
        cy.get('span[class="icon icon-circle-help-solid help-icon"]').click()
